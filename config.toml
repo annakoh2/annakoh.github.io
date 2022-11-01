@@ -1,11 +1,11 @@
 # Basic information
-baseURL = 'https://taixhi.github.io/website-template' # Should be updated to your domain
+baseURL = 'https://annakoh.github.io' # Should be updated to your domain
 languageCode = 'en-us'
 theme="archie"
 
 # Metadata to edit
-title = 'Austin'
-copyright = "© Austin"
+title = 'Anna Koh'
+copyright = "©AnnaKoh"
 blogTitle='Check out my blog:'
 
 # For code highlighting
@@ -17,7 +17,7 @@ pygmentscodefencesguesssyntax = true
 [[params.social]]
 name = "Instagram"
 icon = "instagram"
-url = "https://instagram.com/amherstcollege"
+url = "https://www.instagram.com/anna_koh2/"
 
 [[params.social]]
 name = "Twitter"
